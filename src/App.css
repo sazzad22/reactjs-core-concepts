@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.person {
+  background-color: cyan;
+  border: 5px solid rgb(122, 180, 255);
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+.companions{
+  background-color: rgb(255, 235, 120);
+  border: 5px solid rgb(255, 187, 0);
+  border-radius: 10px;
+  margin: 100px;
+  padding: 20px;
+}
+
+
+.companions2{
+  background-color: rgb(120, 183, 255);
+  border: 5px solid rgb(0, 110, 255);
+  border-radius: 10px;
+  margin: 100px 300px;
+  padding: 20px;
+}
+
+
+
+.wives{
+  background-color: rgb(120, 255, 244);
+  border: 5px solid rgb(0, 255, 157);
+  border-radius: 500px;
+  margin: 50px 400px;
+  padding: 20px;
+}
